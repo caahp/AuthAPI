@@ -1,0 +1,26 @@
+{
+  "name": "authapi",
+  "version": "1.0.0",
+  "description": "This is an object-oriented api in node.js that aims to configure an API in API Gateway for User Authentication through Cognito",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caahp/AuthAPI.git"
+  },
+  "keywords": [
+    "auth",
+    "api"
+  ],
+  "author": "caroline souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caahp/AuthAPI/issues"
+  },
+  "homepage": "https://github.com/caahp/AuthAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
